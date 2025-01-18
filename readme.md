@@ -1,13 +1,13 @@
-# Topsis-Balbir-102217078
+# Topsis-Balbir-Singh-102217078
 
 `Topsis-Balbir-102217078` is a Python package that implements the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method for multi-criteria decision making. This tool is ideal for evaluating and ranking alternatives based on multiple criteria, which is essential in fields like supply chain management, finance, and engineering.
 
 ## Installation
 
-You can install `Topsis-Balbir-102217078` directly from the Python Package Index using pip:
+You can install `Topsis-Balbir-Singh-102217078` directly from the Python Package Index using pip:
 
 ```bash
-pip install Topsis-Balbir-102217078
+pip install Topsis-Balbir-Singh-102217078
 ```
 
 ## Usage
